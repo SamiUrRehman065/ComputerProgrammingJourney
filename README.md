@@ -1,4 +1,6 @@
-# Computer Programming Journey
+# Computer Programming Journey 
+> 🗓️ Originally created: August 2023  
+> 📤 Uploaded to GitHub: August 2025  
 ---
 ## 👨‍💻 Developer: Sami Ur Rehman
 
